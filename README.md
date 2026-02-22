@@ -1,9 +1,8 @@
-# binge-watching-analysis
-# Binge-Watching Pattern Analysis
+# Binge-Watching Analysis
 
-**Description:**  
-Analyzing binge-watching patterns using statistics and data analysis.
+Binge-Watching Pattern Analysis — (Statistics, Data Analysis, Hypothesis Testing)
 
-**Files:**  
-- data/binge_data.xlsx – Dataset  
-- notebooks/binge_analysis.ipynb – Analysis Notebook
+## Files
+
+- [Notebook](notebook/binge_watching_pattern_analysis.ipynb)
+- [Data Excel](data/binge_watching_data.xlsx)
